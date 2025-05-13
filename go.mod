@@ -1,1 +1,1 @@
-module github.com/kardianos/osext
+module github.com/kayrein/osext
